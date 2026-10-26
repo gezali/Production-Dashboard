@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard that analyzes manufacturing production data using **PivotTables, PivotCharts and slicers**. It shows production cost, output and manager workload across product types, regions and time, and lets users filter every chart at once.
 
-![Dashboard Preview](Screenshot 2026-10-26 194242.png)
+![Dashboard Preview](https://github.com/gezali/Production-Dashboard/blob/main/Screenshot%202026-10-26%20194242.png)
 <!-- Add a screenshot of the Dashboard sheet named Dashboard.png to this repo -->
 
 ---
